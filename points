@@ -1,0 +1,7 @@
+reflow
+repaint
+document fragmentation
+single threaded language
+async and sync elements
+********event loop(emptying of call stack and execution of async code only when call stack is empty)
+Philip Robert's videos
